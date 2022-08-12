@@ -1,0 +1,35 @@
+.styledCardApp {
+  padding: 10px;
+  border-radius: 10px;
+  background: var(--secondColor);
+}
+
+.styledCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  cursor: pointer;
+  height: 40px;
+}
+
+.styledButton {
+  width: 100%;
+  padding: 10px 0px;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+  border-width: 0;
+  outline-width: 0;
+  transition: all 200ms ease-in-out;
+  background-color: var(--secondColor);
+  border: 1px solid var(--lineColor);
+}
+
+.styledButton:hover {
+  background-color: var(--bgColor);
+}
+.delete_btn {
+  color: tomato;
+}

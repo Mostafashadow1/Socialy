@@ -1,0 +1,76 @@
+:root {
+  --bgColor: #0d1117;
+  --lineColor: #7c848e63;
+  --textColor: #fff;
+  --secondColor: #161b22;
+  --activeColor: #6c63ff;
+  --modalColor: #15181bad;
+  --iconColor: #ddd;
+  --pColor: #ffffffd1;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: var(--bgColor);
+  color: var(--textColor) !important;
+  overflow-x: hidden !important;
+}
+body {
+  scrollbar-width: thin;
+}
+
+*::-webkit-scrollbar {
+  width: 5px;
+}
+*::-webkit-scrollbar-track {
+  background-color: var(--lineColor);
+}
+*::-webkit-scrollbar-thumb {
+  background-color: var(--activeColor);
+  border-radius: 10px;
+}
+
+.logo_text {
+  background-image: linear-gradient(90deg, #6c63ff, #be55ef);
+  color: transparent;
+  background-clip: text;
+  font-weight: bold !important;
+}
+
+:-ms-reveal,
+:-ms-clear {
+  display: none !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+.inHover:hover {
+  background-color: #111;
+  transition: background-color 200ms ease;
+}
+
+textarea:focus {
+  border: none;
+  outline: none;
+}
+
+.mainButton {
+  outline-width: 0;
+  border-width: 0;
+  color: #fff;
+  background-color: var(--secondColor);
+  padding: 12px;
+  transition: all 200ms ease-in-out;
+  border-radius: 6px;
+  font-size: 18px;
+}
+.mainButton:hover {
+  opacity: 0.7;
+}

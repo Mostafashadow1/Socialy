@@ -1,0 +1,12 @@
+.login_container,
+.register_container {
+  background-color: var(--bgColor);
+  min-height: 100vh;
+}
+
+.image {
+  height: 100%;
+  width: 100%;
+}
+
+
