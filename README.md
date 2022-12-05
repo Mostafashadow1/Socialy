@@ -1,17 +1,17 @@
 # Socialy
 
-<h1> MERN Stack Build a social media app</h1>
+# MERN Stack Build a social media app
 
 ## Hello Everyone 🖐
 
-<h4>
+####
  I will explain this to you in a few lines this project.   This site is a social networking application similar to Facebook, Instagram 
   You can make an account on it.
   Then you can download your photos with words added to them, and your followers can interact with them with likes and comments. 
   you can follow people whose content you like, search for your friends, and communicate with them. There are also suggestions from your friends. And a lot of other things.
    <br/>
   browse it yourself
- </h4>
+####
 
 ## Demo
 
