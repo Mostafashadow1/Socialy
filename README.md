@@ -1,8 +1,8 @@
 # Socialy
 
-# MERN Stack Build a social media app
+## MERN Stack Build a social media app
 
-## Hello Everyone 🖐
+### Hello Everyone 🖐
 
 
  I will explain this to you in a few lines this project.   This site is a social networking application similar to Facebook, Instagram 
@@ -13,9 +13,8 @@
   browse it yourself
 
 
-## Demo
+## [Demo](https://socialiy.herokuapp.com/)
 
-https://socialiy.herokuapp.com/
 
 ## Install dependencies
 
