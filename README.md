@@ -13,10 +13,10 @@
   browse it yourself
 
 
-## [Demo](https://socialiy.herokuapp.com/)
+### [Demo](https://socialiy.herokuapp.com/)
 
 
-## Install dependencies
+### Install dependencies
 
 Install dependencies : server
 
@@ -31,7 +31,7 @@ Install dependencies : client
   npm install
 ```
 
-## Start Project
+### Start Project
 
 Start : server
 
